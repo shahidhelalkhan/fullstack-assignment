@@ -27,6 +27,7 @@ Tax and Calculation:
 Cart Persistence and Billing:
 
 - Create a persistent cart with server-side billing calculations.
+- Split Cart to separate page
 
 
 Order Creation:
@@ -38,5 +39,3 @@ Deployment:
 
 - Successful deployment to Vercel.
 
-
-Note: use Assignment APIs.postman_collection.json postman collection to see the login and items API
