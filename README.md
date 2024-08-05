@@ -33,6 +33,7 @@ Cart Persistence and Billing:
 Order Creation:
 
 - Develop an API for creating orders.
+- Insert order into Mongodb. you can use MongoDB atlas. 
 - Display accurate order details fetched from the order-summary API.
 
 Deployment:
